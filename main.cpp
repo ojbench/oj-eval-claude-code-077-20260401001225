@@ -1,4 +1,4 @@
-#include "CrossArray.hpp"
+#include "src.hpp"
 
 int main() {
     // This is a dummy main file
